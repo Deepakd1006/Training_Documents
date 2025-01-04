@@ -89,11 +89,12 @@ sudo apt install maven -y
 
 mvn --version
 
+#sudo apt install docker.io -y 
+
 Create User in Jenkins Slave Machine & Create SSH Keys 
 
 	SSH Keys --> is composed of public and private keys 
 
-#sudo apt install docker.io -y 
 
 #Add User : 
 
