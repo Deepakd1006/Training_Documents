@@ -449,6 +449,9 @@ goto Email Notification
 SMTP Server :
 smtp.gmail.com
 
+Email Default user e-mail suffix :
+@gmail.com
+
 SMTP Authentication
 
 SMTP Port :: 465
