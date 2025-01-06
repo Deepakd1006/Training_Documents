@@ -191,7 +191,7 @@ ls ~/.ssh
 #You should see following two files:
 
 #id_ecdsa - private key
-#id_ecdsa.pub - public
+#id_ecdsa.pub - public key
 
 
 #cat id_rsa.pub > authorized_keys
